@@ -11,7 +11,9 @@ the messages for each session that was created between the student and the couns
 
 
 
+
 # SpartanTutor
 
+![MainScreen](https://user-images.githubusercontent.com/33469942/57775602-438c7900-76d2-11e9-8d2e-a0086e5d3470.png)
+![MessageScreen](https://user-images.githubusercontent.com/33469942/57775604-438c7900-76d2-11e9-9789-6c4d556d84f0.png)
 
-![SpartanCounselor](C:\Users\malik\Downloads\Screen 1_3 (1))
