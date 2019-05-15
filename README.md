@@ -12,3 +12,6 @@ the messages for each session that was created between the student and the couns
 
 
 # SpartanTutor
+
+
+![SpartanCounselor](C:\Users\malik\Downloads\Screen 1_3 (1))
